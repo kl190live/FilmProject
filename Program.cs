@@ -1,7 +1,6 @@
 ﻿using System;
 
 
-
 namespace FilmProject
 { 
 	internal class Program
